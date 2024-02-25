@@ -9,3 +9,5 @@ But that's not all! YuelHost now offers hosting for **PALWORLD** too!
 Our servers are equipped with AMD Epyc / AMD Ryzen, NVME SSD, DDR4 RAM, and more! What are you waiting for? Create your server now and start playing with your friends!
 
 Join the YuelHost community today and experience the best hosting services for Minecraft and Palworld!
+
+[Indonesian](https://github.com/Catalyst-Serendipity/.github/blob/main/profile/partners/YH-ENG.md)
