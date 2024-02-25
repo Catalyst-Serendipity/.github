@@ -4,7 +4,7 @@ Welcome to Catalyst Serendipity! We are a team of developers working on Minecraf
 
 ## Project Overview
 
-We specialize in creating custom plugins for PocketMine-MP, a server software for Minecraft Bedrock. Our plugins are designed to enhance gameplay, add new features, and improve server performance. Some of the plugins on Poggit that we have also developed include::
+We specialize in creating custom plugins for PocketMine-MP, a server software for Minecraft Bedrock. Our plugins are designed to enhance gameplay, add new features, and improve server performance. Some of the plugins on Poggit that we have also developed include:
 
 | Plugins | State | API | Downloads Total |
 | :-----: | :---: | :-: | :-------: |
@@ -24,7 +24,7 @@ We are proud to work with a variety of partners who bring value to our project. 
 
 - **YuelHost** : As a leading VPS provider, [YuelHost](https://yuelhost.com/invite/FireRashkar) helps us provide stable and fast solutins for our project.
 
-More information about our partners can be found on our [partners page](https://github.com/Catalyst-Serendipity). Thank you for your interest in our project and our partners. We look forward to working with you on our project!
+More information about our partners can be found on our [partners page](https://github.com/Catalyst-Serendipity/.github/blob/main/profile/partners/PARTNERS.md). Thank you for your interest in our project and our partners. We look forward to working with you on our project!
 
 ## Contact Us
 
