@@ -16,7 +16,7 @@ We specialize in creating custom plugins for PocketMine-MP, a server software fo
 
 ## Contributing
 
-We welcome contributions from anyone who is interested in helping us create high-quality Minecraft Bedrock content. If you are interested in contributing, please contact the project lead for more information.
+We welcome contributions from anyone who is interested in helping us create high-quality Minecraft Bedrock content. If you are interested in contributing, please contact the project lead for more information. We are also grateful for any donations that you may be able to make. Your support will help us continue to provide high-quality content and resources to the Minecraft community. To make a donation, please click [here](https://paypal.me/FireRashkar).
 
 ## Partners
 
